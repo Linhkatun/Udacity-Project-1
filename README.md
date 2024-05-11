@@ -19,6 +19,7 @@ Run `npm run prettier` check all development code by prettier in app project.
 ## End Point: 
 
 With original imgage : http://localhost:5000/endpoint/img/current/encenadaport (http://localhost:5000/endpoint/img/current/:name).
+<br>
 With rezise image : http://localhost:5000/endpoint/img/resize/encenadaport?width=200&height=200 (http://localhost:5000/endpoint/img/resize/:nameImg?width=200&height=200).
 
 
